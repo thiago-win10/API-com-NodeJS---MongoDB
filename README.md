@@ -1,4 +1,4 @@
-# API-com-NodeJS---MongoDB
+# API com NodeJS-MongoDB
 <p>Instale o Node na sua maquina acessando o site https://nodejs.org/en/</p>
 <p>Instale o express o nodemon e mongoose: npm install express nodemon mongoose</p>
 
